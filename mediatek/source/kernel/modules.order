@@ -1,0 +1,9 @@
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_stp_wmt.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_stp_uart.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_hif_sdio.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_stp_sdio.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_stp_bt.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_stp_gps.ko
+kernel/../mediatek/source/kernel/drivers/combo/common/mtk_wmt_wifi.ko
+kernel/../mediatek/source/kernel/drivers/combo/drv_fm/private/mtk_fm_priv.ko
+kernel/../mediatek/source/kernel/drivers/combo/drv_fm/public/mt6620_fm_drv.ko

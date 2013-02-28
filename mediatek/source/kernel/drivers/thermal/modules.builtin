@@ -1,0 +1,3 @@
+kernel/../mediatek/source/kernel/drivers/thermal/mtk_thermal_monitor.ko
+kernel/../mediatek/source/kernel/drivers/thermal/mtk_cooler_shutdown.ko
+kernel/../mediatek/source/kernel/drivers/thermal/mtk_cooler_backlight.ko
